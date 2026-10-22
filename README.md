@@ -6,10 +6,14 @@ MacDesk replaces your home screen with a desktop workspace: a menu bar on top, a
 
 > **Status:** early release. It's built for tablets and foldables, and has had limited testing across devices. Issues and pull requests are very welcome.
 
-<!-- Add screenshots here, e.g.
-![Desktop](docs/screenshots/desktop.png)
-![Finder](docs/screenshots/finder.png)
--->
+---
+
+<p align="center">
+  <img src="assets/demo_darkmode.jpeg" width="450" />
+  <img src="assets/demo_lightmode.jpeg" width="450" />
+</p>
+
+[Demo Video](assets/demo.mp4)
 
 ---
 
